@@ -13,5 +13,4 @@ def test():
         f.write(str( i.get('href')))
     f.close
     
-    
 test()
